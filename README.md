@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![LeetCode Stats](https://leetcode.card.workers.dev/rohanfizz?theme=forest&font=source_code_pro&extension=null)
 <!--
 **Rohanfizz/Rohanfizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
