@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![LeetCode Stats](https://leetcode.card.workers.dev/rohanfizz?theme=forest&font=source_code_pro&extension=null)
+![Rohans's github stats](https://github-readme-stats.vercel.app/api?username=Rohanfizz)
+
 <!--
 **Rohanfizz/Rohanfizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
